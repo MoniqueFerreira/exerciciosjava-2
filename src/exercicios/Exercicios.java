@@ -32,9 +32,9 @@ public class Exercicios {
         int idade = 20;
         if( idade<= 12 ) {
             System.out.println("Criança");
-        if( idade > 12 && idade<= 19 ) {
+        if( idade > 12 && idade<= 19 ) { //pode ser utilizado com Else if
             System.out.println("Adolescente");
-        if( idade> 19 && idade<= 60 ) {
+        if( idade> 19 && idade<= 60 ) { //pode ser utilizado com Else if
             System.out.println("Adulto");
         if( idade > 60) {
             System.out.println("idoso");
